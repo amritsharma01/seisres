@@ -18,14 +18,14 @@ const Team = () => {
             name: "Ashim Sapkota",
             role: "Frontend Developer",
             description: "Develops themaintainable frontend for the project.",
-            image: biraj,
+            image: ashim,
         },
         {
             id: 3,
             name: "Biraj Acharya",
             role: "AI/ML Engineer",
             description: "Develops AI models for seismic image processing.",
-            image: ashim,
+            image: biraj,
         },
        
     ];
