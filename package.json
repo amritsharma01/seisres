@@ -1,6 +1,6 @@
 {
 
-  "homepage": "https://amritsharma01.github.io/seisres>",
+  "homepage": "https://amritsharma01.github.io/seisres",
 
   "name": "seis-res",
 
@@ -11,6 +11,8 @@
   "dependencies": {
 
     "cra-template": "1.2.0",
+
+    "drawer": "^0.0.2",
 
     "react": "^19.0.0",
 

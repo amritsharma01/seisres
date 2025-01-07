@@ -2,6 +2,7 @@ import React from 'react';
 import './Team.css';
 import amrit from './assets/amrit.jpg';
 import biraj from './assets/biraj.jpg';
+import ashim from './assets/ashim.jpg';
 
 const Team = () => {
     const teamMembers = [
@@ -24,7 +25,7 @@ const Team = () => {
             name: "Biraj Acharya",
             role: "AI/ML Engineer",
             description: "Develops AI models for seismic image processing.",
-            image: biraj,
+            image: ashim,
         },
        
     ];
